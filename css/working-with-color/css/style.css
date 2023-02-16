@@ -1,17 +1,17 @@
 body {
-  background-color: cyan;
-  background-color: #00ffff;
-  background-color: #00FFFF;
-  background-color: #00ffffaa;
-  background-color: #00FFFFAA;
-  background-color: #0ff;  /* Shortcut for line 3 */
-  background-color: #0FF;  /* Shortcut for line 4 */
-  background-color: #0ffa; /* Shortcut for line 5 */
-  background-color: #0FFA; /* Shortcut for line 6 */
-  background-color: rgb(0, 255, 255);
+  color: rgb(29, 152, 152);
+  background-color: #f88880;
+  background-color: #f00f00;
+  background-color: #000fffaa;
+  background-color: #F00FFFAA;
+  background-color: #f453;  /* Shortcut for line 3 */
+  background-color: #00FF;  /* Shortcut for line 4 */
+  background-color: #09fa; /* Shortcut for line 5 */
+  background-color: #0F2A; /* Shortcut for line 6 */
+  background-color: rgb(72, 195, 142);
   background-color: rgba(0, 255, 255, .28); /* 28% transparency */
-  background-color: rgb(0%, 100%, 100%);
-  background-color: hsl(180, 100%, 50%);
+  background-color: rgba(0, 255, 60, 0.44);
+  background-color: hsl(211, 68%, 51%);
   background-color: hsla(180, 100%, 50%, 28%);
   /* Play with HSL/RGB at https://code-warrior.github.io/tutorials/css/colors/hsl/ */
 }
